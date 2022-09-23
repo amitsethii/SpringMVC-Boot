@@ -19,7 +19,7 @@ select * from students;
                                        *port num* *dtabase*
 spring.datasource.url=jdbc:mysql://localhost:3306/empdb?useSSL=false
 spring.datasource.username=root   
-spring.datasource.password=Gaurav@2022
+spring.datasource.password=Abc@2022
 spring.jpa.database-platform=org.hibernate.dialect.MySQL5InnoDBDialect
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true

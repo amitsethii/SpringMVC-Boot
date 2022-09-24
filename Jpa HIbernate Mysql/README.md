@@ -27,3 +27,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 spring.jpa.show-sql=true
 *************************************************************************************************************************************
+![image](https://user-images.githubusercontent.com/49728020/192089172-71093433-9c8e-4dd9-b8bd-a6b1cff057fe.png)
+
+
+![image](https://user-images.githubusercontent.com/49728020/192089190-9738b7d1-96e7-41cc-b2fa-fa1167c7e675.png)

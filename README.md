@@ -2,8 +2,7 @@
 
 New implimentations
 
-{
-
+**********************************************************************************************************************************
 https://www.youtube.com/watch?v=xRH_YtzErhU&t=556s   mysql (jpa mysql web)
 
 mysqlDtabase   https://www.youtube.com/watch?v=V2p5rVIBT5M&t=1902s
@@ -23,6 +22,4 @@ spring.datasource.password=Abc@2022
 spring.jpa.database-platform=org.hibernate.dialect.MySQL5InnoDBDialect
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
-
-
-}
+*************************************************************************************************************************************
